@@ -41,7 +41,7 @@ jobs:
 
       - name: yarn install, build
         run: |
-          yarn install --verbose
+          yarn install --prefer-offline
           yarn build
 
   deploy:
