@@ -23,7 +23,7 @@ jobs:
 
       - name: yarn install
         run: |
-          yarn add
+          yarn install
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
