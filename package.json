@@ -20,8 +20,6 @@
     "@mui/styles": "^5.13.2",
     "@mui/x-data-grid-pro": "^6.2.1",
     "@mui/x-date-pickers": "^6.11.1",
-    "@technologies-unlimited/unlimited-components": "0.0.19",
-    "@technologies-unlimited/unlimited-rich-text-editor": "0.0.7",
     "@types/node": "18.15.12",
     "@types/react": "18.0.37",
     "@types/react-beautiful-dnd": "^13.1.4",
