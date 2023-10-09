@@ -24,7 +24,6 @@ jobs:
       - name: Dependency Installation
         run: |
           yarn install
-          yarn build
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
