@@ -4,9 +4,9 @@
   "repository": "https://github.com/ashutosh7rana/next-app.git",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "node_modules/next/dist/bin/next dev",
+    "build": "node_modules/next/dist/bin/next build",
+    "start": "node_modules/next/dist/bin/next start"
   },
   "dependencies": {
     "@apollo/client": "^3.7.13",
